@@ -1,4 +1,4 @@
-const EAR_THRESHOLD = 0.25; // Eyes closed below this value
+const EAR_THRESHOLD = 0.23; // Eyes closed below this value
 
 // Level durations in milliseconds
 const LEVEL_1_MS = 800;
